@@ -16,7 +16,7 @@ This is the portal which will be used by Alumni Offices of Universities to know 
 2) Planning an Alumni Event
 3) Alumni Public Feed
 
- App: https://magenta-baklava-41faf8.netlify.app/
+
 
 ### 2. Lite Social Networking Platform
 
@@ -24,7 +24,3 @@ This is the portal which will be used by Alumni Offices of Universities to know 
 
 
 
-App: https://endearing-crumble-2a1877.netlify.app
-
-userid: ss3@g.com
-pwd:123456
