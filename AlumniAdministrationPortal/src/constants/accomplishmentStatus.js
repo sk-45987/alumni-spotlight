@@ -1,0 +1,6 @@
+export const AccomplishmentStatus = {
+  DRAFT: 'DRAFT',
+  SKIPPED: 'SKIPPED',
+  REQUEST_FOR_ADOPTION: 'REQUEST_FOR_ADOPTION',
+  REQUEST_DENIED: 'REQUEST_DENIED'
+};

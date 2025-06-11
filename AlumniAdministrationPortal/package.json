@@ -1,0 +1,35 @@
+{
+  "name": "alumni-admin-portal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@langchain/openai": "^0.0.14",
+    "@supabase/supabase-js": "^2.39.7",
+    "antd": "^5.15.1",
+    "date-fns": "^3.3.1",
+    "langchain": "^0.1.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.22.3",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.4"
+  }
+}

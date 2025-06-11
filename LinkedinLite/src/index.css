@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100;
+}
+
+/* Make emojis bigger in comments */
+.emoji {
+  font-size: 1.5em; /* Makes emojis 50% bigger */
+  line-height: 1;
+  vertical-align: middle;
+}
